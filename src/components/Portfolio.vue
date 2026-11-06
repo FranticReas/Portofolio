@@ -143,7 +143,7 @@ const visibleProjects = () => activeFilter.value === 'Semua' ? projects : projec
 					</article>
 				</div>
 				<div class="all-projects"><span>Ingin melihat karya lainnya?</span><a class="text-link underlined"
-						href="mailto:arielputra813@gmail.com">Tanyakan kepada saya <span>↗</span></a></div>
+						href="mailto:arileka041@gmail.com">Tanyakan kepada saya <span>↗</span></a></div>
 			</div>
 		</section>
 
@@ -202,7 +202,7 @@ const visibleProjects = () => activeFilter.value === 'Semua' ? projects : projec
 				<h2>Mari buat sesuatu<br /><span class="serif-accent">yang berdampak.</span></h2>
 				<p class="contact-copy">Terbuka untuk obrolan, kolaborasi, maupun peluang baru. Ceritakan apa yang
 					sedang Anda pikirkan.</p><a class="contact-email"
-					href="mailto:arielputra813@gmail.com">arielputra813@gmail.com <span>↗</span></a>
+					href="mailto:arileka041@gmail.com">arileka041@gmail.com <span>↗</span></a>
 				<div class="contact-bottom"><span>YOGYAKARTA, INDONESIA</span>
 					<div class="social-links"><a href="https://www.linkedin.com/in/m-ariel-e-814167353/" target="_blank"
 							rel="noreferrer">LINKEDIN ↗</a><a href="https://github.com/FranticReas" target="_blank"
