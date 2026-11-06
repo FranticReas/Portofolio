@@ -1,46 +1,31 @@
-# Astro Starter Kit: Basics
+# Portofolio Muhammad Ariel EkaPutra
+
+Ini adalah situs portofolio pribadi saya. Situs ini memperkenalkan diri, menampilkan proyek, perjalanan pendidikan dan pengalaman, serta menyediakan informasi kontak.
+
+Portofolio ini dibuat menggunakan [Astro](https://astro.build/) dan [Vue](https://vuejs.org/).
+
+## Menjalankan secara lokal
+
+Pastikan [Node.js](https://nodejs.org/) versi `22.23.4` atau lebih baru sudah terpasang. Dari folder utama proyek, jalankan:
 
 ```sh
-npm create astro@latest -- --template basics
+npm install
+npm run dev
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Buka alamat lokal yang ditampilkan di terminal (biasanya <http://localhost:4321>) untuk melihat situs.
 
-## 🚀 Project Structure
+## Perintah lainnya
 
-Inside of your Astro project, you'll see the following folders and files:
+| Perintah | Kegunaan |
+| --- | --- |
+| `npm run build` | Membuat build produksi di folder `dist/`. |
+| `npm run preview` | Menjalankan preview build produksi secara lokal. |
+| `npm run astro -- --help` | Melihat bantuan CLI Astro. |
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
-└── package.json
-```
+## Struktur proyek
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+- `src/pages/` berisi halaman situs.
+- `src/components/` berisi komponen antarmuka, termasuk portfolio.
+- `src/layouts/` berisi layout halaman.
+- `public/` berisi aset publik seperti favicon.
