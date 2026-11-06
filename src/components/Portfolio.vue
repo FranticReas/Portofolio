@@ -79,8 +79,9 @@ const visibleProjects = () => activeFilter.value === 'Semua' ? projects : projec
 						menyelesaikan kebutuhan mereka.</p>
 					<p class="about-text">Saya pernah menjalani magang selama 3 bulan sebagai backend developer untuk
 						aplikasi pencarian kerja yang menghubungkan pencari kerja dengan perusahaan. Saya menikmati
-						proses memahami kebutuhan, merancang alur, dan membangun fitur yang stabil serta mudah digunakan.</p><a
-						class="text-link underlined" href="mailto:arilputra813@gmail.com">arilputra813@gmail.com
+						proses memahami kebutuhan, merancang alur, dan membangun fitur yang stabil serta mudah
+						digunakan.</p><a class="text-link underlined"
+						href="mailto:arileka041@gmail.com">arileka041@gmail.com
 						<span>↗</span></a>
 				</div>
 				<div class="about-side">
@@ -143,7 +144,7 @@ const visibleProjects = () => activeFilter.value === 'Semua' ? projects : projec
 					</article>
 				</div>
 				<div class="all-projects"><span>Ingin melihat karya lainnya?</span><a class="text-link underlined"
-						href="mailto:arielputra813@gmail.com">Tanyakan kepada saya <span>↗</span></a></div>
+						href="mailto:arileka041@gmail.com">Tanyakan kepada saya <span>↗</span></a></div>
 			</div>
 		</section>
 
@@ -172,7 +173,8 @@ const visibleProjects = () => activeFilter.value === 'Semua' ? projects : projec
 					<article class="timeline-item"><span class="timeline-year">SEKARANG</span>
 						<h4>Belajar mandiri</h4>
 						<p>Web Development &amp; Software Engineering</p><span class="timeline-detail">Terus mengasah
-							kemampuan lewat proyek, eksplorasi teknologi, dan praktik menulis kode yang lebih baik.</span>
+							kemampuan lewat proyek, eksplorasi teknologi, dan praktik menulis kode yang lebih
+							baik.</span>
 					</article>
 					<div class="timeline-heading exp-heading" id="pengalaman"><span class="timeline-icon">↗</span>
 						<div>
@@ -183,7 +185,8 @@ const visibleProjects = () => activeFilter.value === 'Semua' ? projects : projec
 					<article class="timeline-item"><span class="timeline-year">MAGANG · 3 BULAN</span>
 						<h4>Backend Developer · Aplikasi pencarian kerja</h4>
 						<p>Magang</p><span class="timeline-detail">Berkontribusi pada backend aplikasi pencarian kerja
-							yang mempertemukan pencari kerja dan perusahaan, dengan konsep serupa Jobstreet atau LinkedIn.</span>
+							yang mempertemukan pencari kerja dan perusahaan, dengan konsep serupa Jobstreet atau
+							LinkedIn.</span>
 					</article>
 					<article class="timeline-item"><span class="timeline-year">SAAT INI</span>
 						<h4>Mahasiswa &amp; pengembang web</h4>
@@ -202,7 +205,7 @@ const visibleProjects = () => activeFilter.value === 'Semua' ? projects : projec
 				<h2>Mari buat sesuatu<br /><span class="serif-accent">yang berdampak.</span></h2>
 				<p class="contact-copy">Terbuka untuk obrolan, kolaborasi, maupun peluang baru. Ceritakan apa yang
 					sedang Anda pikirkan.</p><a class="contact-email"
-					href="mailto:arielputra813@gmail.com">arielputra813@gmail.com <span>↗</span></a>
+					href="mailto:arileka041@gmail.com">arileka041@gmail.com <span>↗</span></a>
 				<div class="contact-bottom"><span>YOGYAKARTA, INDONESIA</span>
 					<div class="social-links"><a href="https://www.linkedin.com/in/m-ariel-e-814167353/" target="_blank"
 							rel="noreferrer">LINKEDIN ↗</a><a href="https://github.com/FranticReas" target="_blank"
